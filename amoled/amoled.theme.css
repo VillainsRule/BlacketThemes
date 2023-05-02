@@ -78,28 +78,12 @@
   filter: brightness(0.3);
 }
 
-#packSelector::-webkit-scrollbar {
-  display: none;
-}
-
-#blookSelector::-webkit-scrollbar {
-  display: none;
-}
-
-.styles__bazaarItems___KmNa2-camelCase::-webkit-scrollbar {
-  display: none;
-}
-
 .styles__bazaarItems___KmNa2-camelCase {
   background-color: rgba(0, 0, 0, 0.33);
 }
 
 .styles__bazaarItem___Meg69-camelCase {
   background-color: #1f1f1f;
-}
-
-.styles__bazaarItem___Meg69-camelCase:hover {
-  background-color: #afafaf;
 }
 
 .styles__container___3St5B-camelCase {
