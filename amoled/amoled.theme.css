@@ -12,7 +12,10 @@ input {
 .styles__container___2VzTy-camelCase,
 .styles__input___2XTSp-camelCase,
 .styles__editHeaderContainer___2G1ji-camelCase,
-.styles__container___1BPm9-camelCase {
+.styles__container___1BPm9-camelCase,
+.styles__container___3St5B-camelCase,
+.styles__blooksHolder___1skET-camelCase::-webkit-scrollbar,
+.styles__chatInputBox___fvMA4-camelCase {
   background-color: #000000;
 }
 
@@ -42,7 +45,8 @@ input {
 .styles__horizontalBlookGridLine___4SAvz-camelCase,
 .styles__verticalBlookGridLine___rQWaZ-camelCase,
 .styles__profileDropdownMenu___2jUAA-camelCase,
-.styles__profileDropdownOption___ljZXD-camelCase {
+.styles__profileDropdownOption___ljZXD-camelCase,
+.sexycontainer3 {
   background-color: #242424;
 }
 
@@ -53,14 +57,19 @@ input {
 .styles__pageButton___1wFuu-camelCase,
 .styles__bottomIcon___3Fswk-camelCase,
 .styles__containerHeaderInside___2omQm-camelCase,
-.styles__statNum___5RYSd-camelCase {
+.styles__statNum___5RYSd-camelCase,
+.styles__text___KSL4--camelCase,
+.styles__waitingForText__G5A73-camelCase {
   color: #727272;
 }
 
 .styles__statContainer___QKuOF-camelCase,
 .styles__containerHeaderInside___2omQm-camelCase,
 .styles__containerHeader___3xghM-camelCase,
-.styles__containerHeaderRight___3xghM-camelCase {
+.styles__containerHeaderRight___3xghM-camelCase,
+.styles__blooksHolder___1skET-camelCase::-webkit-scrollbar-thumb,
+.styles__blooksHolder___1skET-camelCase::-webkit-scrollbar-thumb:hover,
+.sexycontainer {
   background-color: #222222;
 }
 
@@ -109,8 +118,4 @@ input {
 
 .styles__container___3St5B-camelCase {
   background-color: #252525;
-}
-
-.styles__chatInputBox___fvMA4-camelCase {
-  background-color: #000000;
 }
