@@ -15,7 +15,8 @@ input {
 .styles__container___1BPm9-camelCase,
 .styles__container___3St5B-camelCase,
 .styles__blooksHolder___1skET-camelCase::-webkit-scrollbar,
-.styles__chatInputBox___fvMA4-camelCase {
+.styles__chatInputBox___fvMA4-camelCase,
+.styles__bazaarItem___Meg69-camelCase:hover {
   background-color: #000000;
 }
 
@@ -50,7 +51,8 @@ input {
   background-color: #242424;
 }
 
-.styles__button___2hNZo-camelCase {
+.styles__button___2hNZo-camelCase,
+.styles__setText___1PQLQ-camelCase {
   color: #b1b1b1;
 }
 
@@ -74,12 +76,9 @@ input {
 }
 
 #chatBox,
-.styles__chatInputContainer___gkR4A-camelCase  {
+.styles__chatInputContainer___gkR4A-camelCase,
+.styles__container___3St5B-camelCase {
   background-color: #252525;
-}
-
-.styles__setText___1PQLQ-camelCase {
-  color: #b1b1b1;
 }
 
 .styles__edge___3eWfq-camelCase,
@@ -92,14 +91,8 @@ input {
   filter: brightness(0.3);
 }
 
-#packSelector::-webkit-scrollbar {
-  display: none;
-}
-
-#blookSelector::-webkit-scrollbar {
-  display: none;
-}
-
+#packSelector::-webkit-scrollbar,
+#blookSelector::-webkit-scrollbar,
 .styles__bazaarItems___KmNa2-camelCase::-webkit-scrollbar {
   display: none;
 }
@@ -110,12 +103,4 @@ input {
 
 .styles__bazaarItem___Meg69-camelCase {
   background-color: #1f1f1f;
-}
-
-.styles__bazaarItem___Meg69-camelCase:hover {
-  background-color: #afafaf;
-}
-
-.styles__container___3St5B-camelCase {
-  background-color: #252525;
 }
