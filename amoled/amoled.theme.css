@@ -16,8 +16,13 @@ input {
 .styles__container___3St5B-camelCase,
 .styles__blooksHolder___1skET-camelCase::-webkit-scrollbar,
 .styles__chatInputBox___fvMA4-camelCase,
-.styles__bazaarItem___Meg69-camelCase:hover {
-  background-color: #000000;
+.styles__bazaarItem___Meg69-camelCase:hover
+#chatBox,
+.styles__chatInputContainer___gkR4A-camelCase,
+.styles__profileContainer___CSuIE-camelCase,
+.styles__chatRooms___o5ASb-camelCase,
+.styles__tokenBalance___1FHgT-camelCase {
+  background-color: #111111;
 }
 
 .styles__background___2J-JA-camelCase,
@@ -28,8 +33,6 @@ input {
 
 .styles__headerBadges___ffKa4-camelCase,
 .styles__statsContainer___QnrRB-camelCase,
-.styles__profileContainer___CSuIE-camelCase,
-.styles__tokenBalance___1FHgT-camelCase,
 .styles__infoContainer___2uI-S-camelCase,
 .styles__header___2O21B-camelCase,
 .styles__cardContainer___NGmjp-camelCase,
@@ -61,7 +64,11 @@ input {
 .styles__containerHeaderInside___2omQm-camelCase,
 .styles__statNum___5RYSd-camelCase,
 .styles__text___KSL4--camelCase,
-.styles__waitingForText__G5A73-camelCase {
+.styles__waitingForText__G5A73-camelCase,
+.styles__chatRoomsButton___K4ABa-camelCase,
+.styles__chatEmojiButton___8RFa2-camelCase,
+.bb_chat_dl,
+.styles__chatRoomsTitle___fR4Av-camelCase {
   color: #727272;
 }
 
@@ -75,8 +82,6 @@ input {
   background-color: #222222;
 }
 
-#chatBox,
-.styles__chatInputContainer___gkR4A-camelCase,
 .styles__container___3St5B-camelCase {
   background-color: #252525;
 }
