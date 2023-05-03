@@ -21,8 +21,13 @@ input {
 .styles__chatInputContainer___gkR4A-camelCase,
 .styles__profileContainer___CSuIE-camelCase,
 .styles__chatRooms___o5ASb-camelCase,
-.styles__tokenBalance___1FHgT-camelCase {
+.styles__tokenBalance___1FHgT-camelCase,
+.styles__chatEmojiButton___8RFa2-camelCase {
   background-color: #111111;
+}
+
+.styles__chatEmojiButton___8RFa2-camelCase:hover {
+  background-color: #000000;
 }
 
 .styles__background___2J-JA-camelCase,
@@ -41,7 +46,6 @@ input {
 .styles__headerSide___1r1-b-camelCase,
 .styles__signUpButton___3_ch3-camelCase,
 .styles__loginButton___1e3jI-camelCase,
-.styles__chatEmojiButton___8RFa2-camelCase,
 .styles__button___2hNZo-camelCase,
 .styles__tradingContainer___B1ABS-camelCase,
 .styles__otherTokenAmount___SEGGS-camelCase,
