@@ -96,6 +96,10 @@
     border: 0.2vw solid white !important;
 }
 
+#app > div > div.arts__profileBody___eNPbH-camelCase > div > div.styles__headerRow___3mqZi-camelCase > div > div.styles__headerLeftRow___8vTJL-camelCase > div.styles__headerInfo___1oWlb-camelCase > div.styles__headerBadges___ffKa4-camelCase > img {
+    display: none;
+}
+
 #app > div > div.arts__profileBody___eNPbH-camelCase > div > div.styles__headerRow___3mqZi-camelCase > div > div.styles__headerLeftRow___8vTJL-camelCase > div.styles__headerInfo___1oWlb-camelCase > div.styles__headerBanner___3Uuuk-camelCase {
     background-color: #1f1f1f !important;
     border: 0.25vw solid white !important;
