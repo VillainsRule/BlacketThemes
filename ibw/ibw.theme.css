@@ -76,11 +76,31 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
     width: 50px !important;
 }
 
-.styles__levelStarContainer___7ABEf-camelCase > img, .styles__headerBanner___3Uuuk-camelCase > img:nth-child(1), .styles__tokenImg___a08fY-camelCase, .styles__statImg___3DBXt-camelCase, #app > div > div.arts__profileBody___eNPbH-camelCase > div > div.styles__headerRow___3mqZi-camelCase > div > div.styles__headerLeftRow___8vTJL-camelCase > div.styles__headerInfo___1oWlb-camelCase > div.styles__levelBarContainer___1xi-9-camelCase > div.styles__levelStarContainer___7ABEf-camelCase > img, .styles__pageText___1eo7q-camelCase, body > div.styles__sidebar___1XqWi-camelCase > div:nth-child(2) > a:nth-child(2), #hprfnvv, .styles__bottomRow___3OozA-camelCase, .styles__plusButton___2dH73-camelCase, body > div.styles__sidebar___1XqWi-camelCase > div:nth-child(2) > a:nth-child(7), #app > div > div:nth-child(1) > div > div > div.styles__profileDropdownMenu___2jUAA-camelCase, body > div.styles__sidebar___1XqWi-camelCase > div:nth-child(2) > a:nth-child(10), #app > div > div:nth-child(1) > div > div > div.styles__profileRow___cJa4E-camelCase > text, #app > div > div:nth-child(1) > div > div > i, .styles__chatRoomsTitle___fR4Av-camelCase, #app > div > div.arts__profileBody___eNPbH-camelCase > div.styles__chatRooms___o5ASb-camelCase > hr, .styles__chatRoomsButton___K4ABa-camelCase > i, .styles__chatCurrentRoom___MCaV4-camelCase, #big-name, #app > div > div.arts__profileBody___eNPbH-camelCase > div > div.styles__headerRow___3mqZi-camelCase > div > div.styles__headerLeftRow___8vTJL-camelCase > div.styles__headerInfo___1oWlb-camelCase > div.styles__headerBanner___3Uuuk-camelCase > img {
+.styles__levelStarContainer___7ABEf-camelCase > img, .styles__headerBanner___3Uuuk-camelCase > img:nth-child(1), .styles__tokenImg___a08fY-camelCase, .styles__statImg___3DBXt-camelCase, #app > div > div.arts__profileBody___eNPbH-camelCase > div > div.styles__headerRow___3mqZi-camelCase > div > div.styles__headerLeftRow___8vTJL-camelCase > div.styles__headerInfo___1oWlb-camelCase > div.styles__levelBarContainer___1xi-9-camelCase > div.styles__levelStarContainer___7ABEf-camelCase > img, .styles__pageText___1eo7q-camelCase, #hprfnvv, .styles__bottomRow___3OozA-camelCase, .styles__plusButton___2dH73-camelCase, #app > div > div:nth-child(1) > div > div > div.styles__profileDropdownMenu___2jUAA-camelCase, #app > div > div:nth-child(1) > div > div > div.styles__profileRow___cJa4E-camelCase > text, #app > div > div:nth-child(1) > div > div > i, .styles__chatRoomsTitle___fR4Av-camelCase, #app > div > div.arts__profileBody___eNPbH-camelCase > div.styles__chatRooms___o5ASb-camelCase > hr, .styles__chatRoomsButton___K4ABa-camelCase > i, .styles__chatCurrentRoom___MCaV4-camelCase, #big-name, #app > div > div.arts__profileBody___eNPbH-camelCase > div > div.styles__headerRow___3mqZi-camelCase > div > div.styles__headerLeftRow___8vTJL-camelCase > div.styles__headerInfo___1oWlb-camelCase > div.styles__headerBanner___3Uuuk-camelCase > img {
     display: none !important;
     visibility: hidden !important;
     width: 0 !important;
     height: 0 !important;
+}
+
+.styles__header___2O21B-camelCase {
+    background-color: #1a1a1a;
+    border: 0.5vw solid white;
+    text-align: center;
+    border-radius: 1rem;
+    transform: translateY(0.5vw);
+}
+
+.styles__container___3LSgB-camelCase {
+    background: transparent !important;
+    border-radius: 1rem;
+}
+
+.styles__postsContainer___39_IQ-camelCase {
+    background: #252525;
+    border: 0.2vw solid white;
+    border-radius: 0.5rem;
+    transform: translateY(-1.2vw);
 }
 
 .styles__chatRooms___o5ASb-camelCase {
