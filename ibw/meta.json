@@ -1,8 +1,7 @@
 {
-  "title": "iBw",
-  "description": "A modern theme based around the liteBw client.",
-  "image": "https://cdn.discordapp.com/attachments/972295446347276308/1105538897238315180/Screenshot_2023-05-09_125102.png",
-  "author": "acai#8853",
-  "source": "https://github.com/intertransfer/bb.scripts/tree/main/ibw",
-  "version": "0.0.1"
+    "title": "iBw",
+    "description": "A modern theme based around the old liteBw client.",
+    "image": "https://cdn.discordapp.com/attachments/972295446347276308/1105538897238315180/Screenshot_2023-05-09_125102.png",
+    "author": "acai",
+    "source": "https://github.com/VillainsRule/BlacketThemes/tree/main/ibw"
 }
