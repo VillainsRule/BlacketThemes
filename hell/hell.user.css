@@ -1,0 +1,302 @@
+#formAge,
+#formBody,
+#formDiscord,
+.jscolor,
+.jscolor-border,
+.styles__bazaarItem___Meg69-camelCase,
+.styles__bazaarItems___KmNa2-camelCase,
+.styles__bazaarSelectorItems___KmNa2-camelCase,
+.styles__bazaarSelector___Fk3Av-camelCase,
+.styles__blookGridContainer___AK47P-camelCase,
+.styles__cardContainer___NGmjp-camelCase,
+.styles__chatEmojiPickerBody___KR4aN-camelCase,
+.styles__chatInputContainer___gkR4A-camelCase,
+.styles__chatMessageMention___2Z1ZU-camelCase,
+.styles__chatRooms___o5ASb-camelCase,
+.styles__containerHeaderRightFriends___3xghM-camelCase,
+.styles__containerHeaderRight___3xghM-camelCase,
+.styles__containerHeader___3xghM-camelCase,
+.styles__container___1BPm9-camelCase,
+.styles__container___2VzTy-camelCase,
+.styles__container___3St5B-camelCase,
+.styles__editHeaderContainer___2G1ji-camelCase,
+.styles__formsContainer___Fk4Av-camelCase,
+.styles__formsForm___MvA35-camelCase,
+.styles__front___vcvuy-camelCase,
+.styles__headerBadgeBg___12ogR-camelCase,
+.styles__header___22Ne2-camelCase,
+.styles__header___2O21B-camelCase,
+.styles__infoContainer___2uI-S-camelCase,
+.styles__input___2vJSW-camelCase,
+.styles__left___9beun-camelCase,
+.styles__loginButton___1e3jI-camelCase,
+.styles__middleWrapper___hjUyY-camelCase,
+.styles__perkContainer___2rw2I-camelCase,
+.styles__perkIcon___3Ke37-camelCase,
+.styles__planBackground___3Hn_x-camelCase,
+.styles__planTop___2JfpA-camelCase,
+.styles__plan___1OEy4-camelCase,
+.styles__plusButton___2dH73-camelCase,
+.styles__postsContainer___39_IQ-camelCase,
+.styles__profileContainer___CSuIE-camelCase,
+.styles__profileContainer___CSuIE-camelCase:hover,
+.styles__profileDropdownMenu___2jUAA-camelCase,
+.styles__rightBackground___36mp5-camelCase,
+.styles__sidebar___1XqWi-camelCase,
+.styles__signUpButton___3_ch3-camelCase,
+.styles__smallChatContainer__RT55a-camelCase,
+.styles__statContainer___QKuOF-camelCase,
+.styles__statsContainer___QnrRB-camelCase,
+.styles__toastContainer___o4pCa-camelCase,
+.styles__tokenBalance___1FHgT-camelCase,
+.styles__tradingContainer___B1ABS-camelCase,
+.styles__welcomeButton___39pgl-camelCase,
+.toastMessage {
+    border: 3px solid #ee4b2b !important;
+}
+
+.styles__front___vcvuy-camelCase {
+    background-color: #3d0303 !important;
+    color: #ee4b2b !important;
+}
+
+.styles__background___2J-JA-camelCase {
+    background-color: transparent !important;
+    background: linear-gradient(90deg, #3d0303 0, #b80000 100%) !important;
+}
+
+.jscolor-wrap div,
+.styles__bazaarItems___KmNa2-camelCase,
+.styles__blookGridContainer___AK47P-camelCase,
+.styles__blooksHolder___1skET-camelCase,
+.styles__blooksHolder___3qZR1-camelCase,
+.styles__cardContainer___NGmjp-camelCase,
+.styles__chatCurrentRoom___MCaV4-camelCase,
+.styles__chatEmojiButton___8RFa2-camelCase,
+.styles__chatEmojiPickerBody___KR4aN-camelCase,
+.styles__chatEmojiPickerContainer___KR4aN-camelCase,
+.styles__chatEmojiPickerHeader___FK4Ac-camelCase,
+.styles__chatInputBox___fvMA4-camelCase,
+.styles__chatInputContainer___gkR4A-camelCase,
+.styles__chatMessageMention___2Z1ZU-camelCase,
+.styles__chatRoomsButton___K4ABa-camelCase:hover,
+.styles__chatRooms___o5ASb-camelCase,
+.styles__containerHeaderInside___2omQm-camelCase,
+.styles__containerHeaderRightFriends___3xghM-camelCase,
+.styles__containerHeaderRight___3xghM-camelCase,
+.styles__containerHeader___3xghM-camelCase,
+.styles__container___1BPm9-camelCase,
+.styles__container___2VzTy-camelCase,
+.styles__container___3St5B-camelCase,
+.styles__editHeaderContainer___2G1ji-camelCase,
+.styles__formsContainer___Fk4Av-camelCase,
+.styles__formsForm___MvA35-camelCase,
+.styles__headerBadgeBg___12ogR-camelCase,
+.styles__headerSide___1r1-b-camelCase,
+.styles__header___22Ne2-camelCase,
+.styles__header___2O21B-camelCase,
+.styles__infoContainer___2uI-S-camelCase,
+.styles__instantButton___2ezEk-camelCase,
+.styles__left___9beun-camelCase,
+.styles__levelBar___2SU0x-camelCase,
+.styles__loginButton___1e3jI-camelCase,
+.styles__middleWrapper___hjUyY-camelCase,
+.styles__pageButton___1wFuu-camelCase:hover,
+.styles__perkContainer___2rw2I-camelCase,
+.styles__planBackground___3Hn_x-camelCase,
+.styles__planTop___2JfpA-camelCase,
+.styles__plan___1OEy4-camelCase,
+.styles__postsContainer___39_IQ-camelCase,
+.styles__profileContainer___CSuIE-camelCase,
+.styles__profileContainer___CSuIE-camelCase:hover > .styles__profileDropdownMenu___2jUAA-camelCase,
+.styles__profileDropdownOption___ljZXD-camelCase,
+.styles__sidebar___1XqWi-camelCase,
+.styles__signUpButton___3_ch3-camelCase,
+.styles__statContainer___QKuOF-camelCase,
+.styles__statsContainer___QnrRB-camelCase,
+.styles__toastContainer___o4pCa-camelCase,
+.styles__tokenBalance___1FHgT-camelCase,
+.styles__tradingContainer___B1ABS-camelCase,
+.toastMessage,
+input {
+    background-color: #3d0303 !important;
+}
+
+.styles__planSpacer___LF8cN-camelCase,
+hr {
+    background-color: #ee4b2b !important;
+}
+
+.styles__notificationIndicator___4kvmA-camelCase,
+.styles__settingButton___2xaQu-camelCase {
+    background-color: #3d0303 !important;
+    color: #ee4b2b !important;
+    border: 3px solid #ee4b2b !important;
+}
+
+.styles__edge___3eWfq-camelCase,
+.styles__planBackground___3Hn_x-camelCase,
+.styles__planButtonInside___wAgJI-camelCase {
+    background: #3d0303 !important;
+}
+
+#formBody,
+.styles__bazaarItem___Meg69-camelCase,
+.styles__horizontalBlookGridLine___4SAvz-camelCase,
+.styles__myTokenAmount___ANKHA-camelCase,
+.styles__otherTokenAmount___SEGGS-camelCase,
+.styles__verticalBlookGridLine___rQWaZ-camelCase {
+    background-color: #8b0000 !important;
+}
+
+#amountOfResults {
+    background-color: #3d0303 !important;
+}
+
+.styles__pageButton___1wFuu-camelCase:hover {
+    color: #3d0303 !important;
+}
+
+#pageNumber,
+.styles__bazaarItemAuthor___Fk3A1-camelCase,
+.styles__bazaarItemPrice___KG4aZ-camelCase,
+.styles__bazaarResultsText___g4Sxn-camelCase,
+.styles__bottomIcon___3Fswk-camelCase,
+.styles__buttonInside___39vdp-camelCase,
+.styles__chatRoomsButton___K4ABa-camelCase,
+.styles__containerHeaderInside___2omQm-camelCase,
+.styles__containerHeader___19fyc-camelCase,
+.styles__copyrightInformation___f4Dky-camelCase,
+.styles__dateRow___1jkQT-camelCase,
+.styles__formsFormBody___wRo5A-camelCase,
+.styles__formsFormDiscord___r94MV-camelCase,
+.styles__formsFormUsername___Vamr4-camelCase,
+.styles__headerButtonInside___26e_U-camelCase,
+.styles__headerIcon___1ykdN-camelCase,
+.styles__headerRight___nPb83-camelCase,
+.styles__header___153FZ-camelCase,
+.styles__header___2O21B-camelCase,
+.styles__header___kLT5x-camelCase,
+.styles__iconFilled___1uSeW-camelCase,
+.styles__infoHeader___1lsZY-camelCase,
+.styles__input___2vJSW-camelCase,
+.styles__left___9beun-camelCase,
+.styles__link___5UR6_-camelCase,
+.styles__logoText___1eUDm-camelCase,
+.styles__middleHeader___1knI4-camelCase,
+.styles__numTotal___3LQaw-camelCase,
+.styles__perkIcon___3Ke37-camelCase,
+.styles__perkInfo___1jvHA-camelCase,
+.styles__perkTitle___3vmIt-camelCase,
+.styles__planDetail___V2tYJ-camelCase,
+.styles__planPrice___2fwN6-camelCase,
+.styles__planTop___2JfpA-camelCase,
+.styles__profileDropdownIcon___3iLIX-camelCase,
+.styles__profileDropdownOption___ljZXD-camelCase,
+.styles__pronounceButton___3lV1b-camelCase,
+.styles__rateIcon___11Qwv-camelCase:hover,
+.styles__rightButtonInside___14imT-camelCase,
+.styles__statNum___5RYSd-camelCase,
+.styles__statTitle___z4wSV-camelCase,
+.styles__text___1L6DW-camelCase,
+.styles__text___1x37n-camelCase,
+.styles__text___KSL4--camelCase,
+.styles__toastMessage___xar43-camelCase,
+.styles__toastTitle___39Rac-camelCase,
+.styles__tokenBalance___1FHgT-camelCase,
+.styles__topStats___3qffP-camelCase,
+.styles__versionInformation___rk3A2-camelCase,
+.styles__welcomeDesc___OyjZk-camelCase,
+.styles__welcomeText___30V14-camelCase,
+.styles__blooketText___1pMBG-camelCase,
+.styles__chatRoomsTitle___fR4Av-camelCase,
+.styles__header___WE435-camelCase,
+.styles__pageIcon___3OSy9-camelCase,
+.styles__pageText___1eo7q-camelCase
+a,
+h1,
+p {
+    color: #ee4b2b !important;
+}
+
+.styles__plusButton___2dH73-camelCase {
+    background: #3d0303 !important;
+    color: #ee4b2b !important;
+}
+
+.styles__chatEmojiButton___8RFa2-camelCase {
+    border: 2px solid #ee4b2b !important;
+    color: #ee4b2b !important;
+}
+
+.styles__chatEmojiButton___8RFa2-camelCase {
+    margin-top: -2px !important;
+}
+
+#amountOfResults,
+.styles__buttonFilled___23Dcn-camelCase,
+.styles__friendButton___gj4Ac-camelCase {
+    border: 3px solid #ee4b2b !important;
+}
+
+.styles__friendButton___gj4Ac-camelCase {
+    background-color: #3d0303 !important;
+    color: #ee4b2b !important;
+}
+
+.styles__chatCurrentRoom___MCaV4-camelCase,
+.styles__chatEmojiPickerHeader___FK4Ac-camelCase,
+.styles__instantButton___2ezEk-camelCase {
+    color: #ee4b2b !important;
+    border: 3px solid #ee4b2b !important;
+}
+
+.styles__buttonFilled___23Dcn-camelCase {
+    color: #EE4B2B !important;
+}
+
+#amountOfResults,
+.toastMessage {
+    color: #ee4b2b !important;
+}
+
+.styles__myTokenAmount___ANKHA-camelCase,
+.styles__otherTokenAmount___SEGGS-camelCase {
+    border: 3px solid #3d0303 !important;
+}
+
+.styles__welcomeButton___39pgl-camelCase:hover {
+    background: #3d0303 !important;
+}
+
+::placeholder {
+    color: #ee4b2b !important;
+}
+
+.styles__chatInputContainer___gkR4A-camelCase {
+    padding: 1px !important;
+}
+
+#requestsFriendsContainer > div[style="color: white;display: flex;justify-content: center;align-content: center;align-items: center;margin-bottom: 5px;"] {
+    color: #ee4b2b !important;
+}
+
+#innermodal > div[style="text-align: center;font-size: 40px;color: white;top: 10px;position: absolute;width: 100%;"] {
+    color: #ee4b2b !important;
+}
+
+.styles__headerBadgeBg___12ogR-camelCase {
+    top: -5px !important;
+}
+
+.styles__plusButton___2dH73-camelCase {
+    filter: drop-shadow(0 0 3.5px rgba(238,75,43));
+}
+
+.styles__blooketText___1pMBG-camelCase {
+    filter: drop-shadow(10px 3px 20px black);
+}
+
+.styles__friendsAvatar___mvaW3-camelCase {
+    top: 54%;
+}
