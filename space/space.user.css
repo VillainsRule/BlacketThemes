@@ -1,0 +1,398 @@
+#formAge,
+#formBody,
+#formDiscord,
+.jscolor,
+.jscolor-border,
+.styles__bazaarItem___Meg69-camelCase,
+.styles__bazaarItems___KmNa2-camelCase,
+.styles__bazaarSelectorItems___KmNa2-camelCase,
+.styles__bazaarSelector___Fk3Av-camelCase,
+.styles__blookGridContainer___AK47P-camelCase,
+.styles__cardContainer___NGmjp-camelCase,
+.styles__chatEmojiPickerBody___KR4aN-camelCase,
+.styles__chatInputContainer___gkR4A-camelCase,
+.styles__chatMessageMention___2Z1ZU-camelCase,
+.styles__chatRooms___o5ASb-camelCase,
+.styles__containerHeaderRightFriends___3xghM-camelCase,
+.styles__containerHeaderRight___3xghM-camelCase,
+.styles__containerHeader___3xghM-camelCase,
+.styles__container___1BPm9-camelCase,
+.styles__container___2VzTy-camelCase,
+.styles__container___3St5B-camelCase,
+.styles__editHeaderContainer___2G1ji-camelCase,
+.styles__formsContainer___Fk4Av-camelCase,
+.styles__formsForm___MvA35-camelCase,
+.styles__front___vcvuy-camelCase,
+.styles__headerBadgeBg___12ogR-camelCase,
+.styles__header___2O21B-camelCase,
+.styles__infoContainer___2uI-S-camelCase,
+.styles__input___2vJSW-camelCase,
+.styles__left___9beun-camelCase,
+.styles__middleWrapper___hjUyY-camelCase,
+.styles__perkContainer___2rw2I-camelCase,
+.styles__plan___1OEy4-camelCase,
+.styles__plusButton___2dH73-camelCase,
+.styles__postsContainer___39_IQ-camelCase,
+.styles__profileContainer___CSuIE-camelCase,
+.styles__profileContainer___CSuIE-camelCase:hover,
+.styles__profileDropdownMenu___2jUAA-camelCase,
+.styles__sidebar___1XqWi-camelCase,
+.styles__signUpButton___3_ch3-camelCase,
+.styles__loginButton___1e3jI-camelCase,
+.styles__smallChatContainer__RT55a-camelCase,
+.styles__statContainer___QKuOF-camelCase,
+.styles__statsContainer___QnrRB-camelCase,
+.styles__toastContainer___o4pCa-camelCase,
+.styles__tokenBalance___1FHgT-camelCase,
+.styles__tradingContainer___B1ABS-camelCase,
+.styles__welcomeButton___39pgl-camelCase,
+.toastMessage,
+.styles__topRightRow___dQvxc-camelCase> :nth-child(1),
+.styles__instantButton___2ezEk-camelCase,
+.styles__creditsCreditContainer___bej3a-camelCase {
+    border: 3px solid #6e15bd !important;
+    border-radius: 10px !important;
+}
+
+#pageNumber,
+#amountOfResults,
+.toastMessage,
+::placeholder,
+.styles__bazaarItemAuthor___Fk3A1-camelCase,
+.styles__bazaarItemPrice___KG4aZ-camelCase,
+.styles__bazaarResultsText___g4Sxn-camelCase,
+.styles__bottomIcon___3Fswk-camelCase,
+.styles__buttonInside___39vdp-camelCase,
+.styles__chatRoomsButton___K4ABa-camelCase,
+.styles__containerHeaderInside___2omQm-camelCase,
+.styles__containerHeader___19fyc-camelCase,
+.styles__copyrightInformation___f4Dky-camelCase,
+.styles__dateRow___1jkQT-camelCase,
+.styles__formsFormBody___wRo5A-camelCase,
+.styles__formsFormDiscord___r94MV-camelCase,
+.styles__formsFormUsername___Vamr4-camelCase,
+.styles__headerButtonInside___26e_U-camelCase,
+.styles__headerIcon___1ykdN-camelCase,
+.styles__headerRight___nPb83-camelCase,
+.styles__header___153FZ-camelCase,
+.styles__header___2O21B-camelCase,
+.styles__header___kLT5x-camelCase,
+.styles__iconFilled___1uSeW-camelCase,
+.styles__infoHeader___1lsZY-camelCase,
+.styles__input___2vJSW-camelCase,
+.styles__left___9beun-camelCase,
+.styles__link___5UR6_-camelCase,
+.styles__logoText___1eUDm-camelCase,
+.styles__middleHeader___1knI4-camelCase,
+.styles__numTotal___3LQaw-camelCase,
+.styles__perkIcon___3Ke37-camelCase,
+.styles__perkInfo___1jvHA-camelCase,
+.styles__perkTitle___3vmIt-camelCase,
+.styles__planDetail___V2tYJ-camelCase,
+.styles__planPrice___2fwN6-camelCase,
+.styles__profileDropdownIcon___3iLIX-camelCase,
+.styles__profileDropdownOption___ljZXD-camelCase,
+.styles__pronounceButton___3lV1b-camelCase,
+.styles__rateIcon___11Qwv-camelCase:hover,
+.styles__rightButtonInside___14imT-camelCase,
+.styles__statNum___5RYSd-camelCase,
+.styles__statTitle___z4wSV-camelCase,
+.styles__text___1L6DW-camelCase,
+.styles__text___1x37n-camelCase,
+.styles__text___KSL4--camelCase,
+.styles__toastMessage___xar43-camelCase,
+.styles__toastTitle___39Rac-camelCase,
+.styles__topStats___3qffP-camelCase,
+.styles__versionInformation___rk3A2-camelCase,
+.styles__welcomeDesc___OyjZk-camelCase,
+.styles__welcomeText___30V14-camelCase,
+.styles__blooketText___1pMBG-camelCase,
+.styles__chatRoomsTitle___fR4Av-camelCase,
+.styles__header___WE435-camelCase,
+.styles__pageIcon___3OSy9-camelCase,
+.styles__pageText___1eo7q-camelCase,
+.styles__buttonFilled___23Dcn-camelCase #requestsFriendsContainer > div[style="color: white;display: flex;justify-content: center;align-content: center;align-items: center;margin-bottom: 5px;"],
+#innermodal > div[style="text-align: center;font-size: 40px;color: white;top: 10px;position: absolute;width: 100%;"] {
+    color: #6e15bd !important;
+}
+
+input,
+#agreeToTermsBox,
+#amountOfResults,
+#formBody,
+.toastMessage,
+.jscolor-wrap div,
+.styles__bazaarItems___KmNa2-camelCase,
+.styles__blookGridContainer___AK47P-camelCase,
+.styles__blooksHolder___1skET-camelCase,
+.styles__cardContainer___NGmjp-camelCase,
+.styles__chatUploadButton___g39Ac-camelCase,
+.styles__chatEmojiButton___8RFa2-camelCase,
+.styles__chatEmojiPickerBody___KR4aN-camelCase,
+.styles__chatEmojiPickerContainer___KR4aN-camelCase,
+.styles__chatEmojiPickerHeader___FK4Ac-camelCase,
+.styles__chatInputBox___fvMA4-camelCase,
+.styles__chatInputContainer___gkR4A-camelCase,
+.styles__chatMessageMention___2Z1ZU-camelCase,
+.styles__chatRoomsButton___K4ABa-camelCase:hover,
+.styles__containerHeaderInside___2omQm-camelCase,
+.styles__containerHeaderRightFriends___3xghM-camelCase,
+.styles__containerHeaderRight___3xghM-camelCase,
+.styles__containerHeader___3xghM-camelCase,
+.styles__container___1BPm9-camelCase,
+.styles__container___2VzTy-camelCase,
+.styles__container___3St5B-camelCase,
+.styles__editHeaderContainer___2G1ji-camelCase,
+.styles__formsContainer___Fk4Av-camelCase,
+.styles__formsForm___MvA35-camelCase,
+.styles__headerBadgeBg___12ogR-camelCase,
+.styles__header___22Ne2-camelCase,
+.styles__header___2O21B-camelCase,
+.styles__levelBar___2SU0x-camelCase,
+.styles__pageButton___1wFuu-camelCase:hover,
+.styles__perkContainer___2rw2I-camelCase,
+.styles__postsContainer___39_IQ-camelCase,
+.styles__profileContainer___CSuIE-camelCase:hover > .styles__profileDropdownMenu___2jUAA-camelCase,
+.styles__profileDropdownOption___ljZXD-camelCase,
+.styles__statContainer___QKuOF-camelCase,
+.styles__toastContainer___o4pCa-camelCase,
+.styles__tokenBalance___1FHgT-camelCase,
+.styles__tradingContainer___B1ABS-camelCase,
+.styles__profileDropdownMenu___2jUAA-camelCase,
+.styles__edge___3eWfq-camelCase,
+.styles__planButtonInside___wAgJI-camelCase,
+.styles__welcomeButton___39pgl-camelCase:hover,
+.styles__bazaarItem___Meg69-camelCase,
+.styles__myTokenAmount___ANKHA-camelCase,
+.styles__otherTokenAmount___SEGGS-camelCase {
+    background-color: #2c0b66 !important;
+}
+
+#tokenBalance,
+.styles__chatInputBox___fvMA4-camelCase,
+.styles__chatInputContainer___gkR4A-camelCase,
+.styles__chatCurrentRoom___MCaV4-camelCase,
+.styles__chatRooms___o5ASb-camelCase,
+.styles__sidebar___1XqWi-camelCase,
+.styles__headerSide___1r1-b-camelCase,
+.styles__signUpButton___3_ch3-camelCase,
+.styles__loginButton___1e3jI-camelCase,
+.styles__profileContainer___CSuIE-camelCase,
+.styles__topRightRow___dQvxc-camelCase > :nth-child(1),
+.styles__instantButton___2ezEk-camelCase,
+.styles__left___9beun-camelCase,
+.styles__blooksHolder___3qZR1-camelCase,
+.styles__front___vcvuy-camelCase,
+.styles__infoContainer___2uI-S-camelCase,
+.styles__creditsCreditContainer___bej3a-camelCase,
+.styles__plan___1OEy4-camelCase,
+.styles__middleWrapper___hjUyY-camelCase,
+.styles__statsContainer___QnrRB-camelCase {
+    background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.styles__tokenContainer___3yBv--camelCase {
+    background: rgba(0, 0, 0, 0.8) !important;
+}
+
+.styles__inputContainer___t9pz0-camelCase[focus-within],
+.styles__inputContainer___t9pz0-camelCase:focus-within {
+    border-color: #6e15bd;
+}
+
+.styles__profileContainer___CSuIE-camelCase {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.styles__profileDropdownMenu___2jUAA-camelCase {
+    top: calc(100% - 0px);
+    right: -2px;
+}
+
+#tokenBalance {
+    margin-top: 10px;
+}
+
+.styles__topRightRow___dQvxc-camelCase> :nth-child(1) {
+    margin-right: 10px;
+}
+
+.styles__background___2J-JA-camelCase {
+    background: linear-gradient(90deg, #2c0b66 0, #180638 100%) !important;
+    content: url("https://wallpapercave.com/wp/wp3837751.jpg") !important;
+}
+
+.styles__chatEmojiPickerHeader___FK4Ac-camelCase {
+    width: calc(100% - 6px);
+    border-radius: 10px 10px 0 0;
+    bottom: calc(107.5% - 7.5%);
+}
+
+.styles__chatEmojiPickerBody___KR4aN-camelCase {
+    border-radius: 0 0 10px 10px !important;
+    left: 0;
+    justify-content: center;
+    padding: 10px;
+    bottom: 0;
+}
+
+.styles__chatEmojiPickerContainer___KR4aN-camelCase {
+    box-shadow: none;
+}
+
+.styles__chatRooms___o5ASb-camelCase {
+    bottom: 10%;
+}
+
+#agreeToTermsBox {
+    border: 2px solid rgba(0, 0, 0, 0.17);
+}
+
+.styles__sidebar___1XqWi-camelCase {
+    margin: 10px;
+    height: calc(100% - 20px);
+}
+
+.styles__statsContainer___QnrRB-camelCase {
+    margin-top: 55px;
+}
+
+#chatContainer {
+    height: calc(100% - 105px);
+    margin-top: 45px;
+}
+
+.styles__chatCurrentRoom___MCaV4-camelCase {
+    top: 0;
+    left: 0;
+    width: 50%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3vh;
+}
+
+.arts__profileBody___eNPbH-camelCase {
+    margin-left: 20px;
+    width: calc(100% - 250px);
+    height: calc(100% - 20px);
+    top: 10px;
+}
+
+.styles__planSpacer___LF8cN-camelCase {
+    background-color: #6e15bd !important;
+}
+
+.styles__settingButton___2xaQu-camelCase {
+    background-color: #2c0b66 !important;
+    color: #6e15bd !important;
+    border: 3px solid #6e15bd !important;
+}
+
+hr {
+    background-color: #6e15bd !important;
+    border: #6e15bd !important;
+}
+
+.styles__verticalBlookGridLine___rQWaZ-camelCase {
+    background-color: #6e15bd;
+    width: 3px;
+}
+
+.styles__inputContainer___2Fn7J-camelCase {
+    border: none;
+}
+
+.styles__horizontalBlookGridLine___4SAvz-camelCase {
+    background-color: #6e15bd;
+    height: 3px;
+}
+
+.styles__pageButton___1wFuu-camelCase:hover {
+    color: #2c0b66 !important;
+}
+
+.styles__plusButton___2dH73-camelCase {
+    background: #2c0b66 !important;
+    color: #6e15bd !important;
+    filter: drop-shadow(0 0 3.5px rgba(24, 6, 56));
+}
+
+.styles__chatEmojiButton___8RFa2-camelCase {
+    color: #6e15bd !important;
+    border-radius: 10px;
+    margin: 3px !important;
+    height: 44px !important;
+}
+
+#amountOfResults,
+.styles__buttonFilled___23Dcn-camelCase,
+.styles__friendButton___gj4Ac-camelCase,
+input.noplace {
+    border: 3px solid #6e15bd !important;
+}
+
+.styles__friendButton___gj4Ac-camelCase {
+    background-color: #2c0b66 !important;
+    color: #6e15bd !important;
+}
+
+.styles__chatCurrentRoom___MCaV4-camelCase,
+.styles__chatEmojiPickerHeader___FK4Ac-camelCase {
+    color: #6e15bd !important;
+    border: 3px solid #6e15bd !important;
+}
+
+.styles__myTokenAmount___ANKHA-camelCase,
+.styles__otherTokenAmount___SEGGS-camelCase {
+    border: 3px solid #2c0b66 !important;
+}
+
+.styles__chatInputContainer___gkR4A-camelCase {
+    padding: 1px !important;
+}
+
+.styles__headerBadgeBg___12ogR-camelCase {
+    top: -5px !important;
+}
+
+.styles__blooketText___1pMBG-camelCase {
+    filter: drop-shadow(10px 3px 20px black);
+}
+
+.styles__friendsAvatar___mvaW3-camelCase {
+    top: 54%;
+}
+
+.styles__welcomeText___30V14-camelCase,
+.styles__logoText___1eUDm-camelCase,
+.styles__middleHeader___1knI4-camelCase {
+    text-shadow: 2px 2px 8px black;
+}
+
+.styles__middleWrapper___hjUyY-camelCase {
+    margin-top: 20px;
+    width: calc(100% - 10px);
+    margin-left: 10px;
+}
+
+.styles__notificationIndicator___4kvmA-camelCase {
+    background-color: #790c0c !important;
+}
+
+.styles__smallChatContainer__RT55a-camelCase {
+    width: 95vw;
+    overflow: auto;
+    overflow-y: auto;
+    position: absolute;
+    overflow-y: scroll;
+    height: 9.5vw !important;
+    scrollbar-width: 50px;
+    scrollbar-color: #4f4f4f #2f2f2f;
+    background-color: rgba(0, 0, 0, 0.33);
+    border: black;
+    bottom: 10.9vw;
+    left: 2.5vw;
+}
