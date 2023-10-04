@@ -3,6 +3,7 @@
 #formDiscord,
 .jscolor,
 .jscolor-border,
+.toastMessage,
 .styles__bazaarItem___Meg69-camelCase,
 .styles__bazaarItems___KmNa2-camelCase,
 .styles__bazaarSelectorItems___KmNa2-camelCase,
@@ -46,8 +47,7 @@
 .styles__tokenBalance___1FHgT-camelCase,
 .styles__tradingContainer___B1ABS-camelCase,
 .styles__welcomeButton___39pgl-camelCase,
-.toastMessage,
-.styles__topRightRow___dQvxc-camelCase> :nth-child(1),
+.styles__topRightRow___dQvxc-camelCase > :nth-child(1),
 .styles__instantButton___2ezEk-camelCase,
 .styles__creditsCreditContainer___bej3a-camelCase {
     border: 3px solid #6e15bd !important;
@@ -111,7 +111,12 @@
 .styles__header___WE435-camelCase,
 .styles__pageIcon___3OSy9-camelCase,
 .styles__pageText___1eo7q-camelCase,
-.styles__buttonFilled___23Dcn-camelCase #requestsFriendsContainer > div[style="color: white;display: flex;justify-content: center;align-content: center;align-items: center;margin-bottom: 5px;"],
+.styles__buttonFilled___23Dcn-camelCase,
+.styles__signUpButton___3_ch3-camelCase,
+.styles__loginButton___1e3jI-camelCase,
+.styles__welcomeButton___39pgl-camelCase,
+.styles__termsOfServiceLink___Gk4Av-camelCase > :nth-child(1),
+#requestsFriendsContainer > a[style="color: white;display: flex;justify-content: center;align-content: center;align-items: center;margin-bottom: 5px;"],
 #innermodal > div[style="text-align: center;font-size: 40px;color: white;top: 10px;position: absolute;width: 100%;"] {
     color: #6e15bd !important;
 }
@@ -214,13 +219,22 @@ input,
     margin-top: 10px;
 }
 
-.styles__topRightRow___dQvxc-camelCase> :nth-child(1) {
+.styles__topRightRow___dQvxc-camelCase > :nth-child(1) {
     margin-right: 10px;
 }
 
 .styles__background___2J-JA-camelCase {
-    background: linear-gradient(90deg, #2c0b66 0, #180638 100%) !important;
-    content: url("https://wallpapercave.com/wp/wp3837751.jpg") !important;
+    background-image: url('https://images3.alphacoders.com/568/568861.jpg') !important;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.styles__blooksBackground___3oQ7Y-camelCase {
+    display: none;
 }
 
 .styles__chatEmojiPickerHeader___FK4Ac-camelCase {
@@ -382,10 +396,20 @@ input.noplace {
     background-color: #790c0c !important;
 }
 
+.styles__welcomeButton___39pgl-camelCase {
+    transition: 0.2s;
+}
+
+.styles__welcomeButton___39pgl-camelCase:focus,
+.styles__welcomeButton___39pgl-camelCase:hover {
+    transform: scale(1.05);
+    background-color: transparent !important;
+    color: #6e15bd !important;
+}
+
 .styles__smallChatContainer__RT55a-camelCase {
     width: 95vw;
     overflow: auto;
-    overflow-y: auto;
     position: absolute;
     overflow-y: scroll;
     height: 9.5vw !important;
