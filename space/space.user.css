@@ -12,7 +12,6 @@
 .styles__cardContainer___NGmjp-camelCase,
 .styles__chatEmojiPickerBody___KR4aN-camelCase,
 .styles__chatInputContainer___gkR4A-camelCase,
-.styles__chatMessageMention___2Z1ZU-camelCase,
 .styles__chatRooms___o5ASb-camelCase,
 .styles__containerHeaderRightFriends___3xghM-camelCase,
 .styles__containerHeaderRight___3xghM-camelCase,
@@ -217,6 +216,10 @@ input,
 
 #tokenBalance {
     margin-top: 10px;
+}
+
+.styles__chatMessageMention___2Z1ZU-camelCase {
+    border: 2px solid #6e15bd !important;
 }
 
 .styles__topRightRow___dQvxc-camelCase > :nth-child(1) {
