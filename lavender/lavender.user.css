@@ -1,3 +1,11 @@
+/**
+ * @name           Lavender
+ * @description    A light & cozy lavender theme.
+ * @authors        Death & fristic
+ * @source         https://github.com/VillainsRule/BlacketThemes
+ * @autoImportant  false
+*/
+
 input {
     background-color: transparent !important;
 }
@@ -25,7 +33,8 @@ input {
 .styles__postsContainer___39_IQ-camelCase,
 .styles__cardContainer___NGmjp-camelCase,
 .styles__header___2O21B-camelCase,
-.styles__chatInputContainer___gkR4A-camelCase. .styles__container___1BPm9-camelCase,
+.styles__chatInputContainer___gkR4A-camelCase,
+.styles__container___1BPm9-camelCase,
 .styles__chatRooms___o5ASb-camelCase,
 .styles__editHeaderContainer___2G1ji-camelCase,
 .styles__levelBar___2SU0x-camelCase,

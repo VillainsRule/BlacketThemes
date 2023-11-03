@@ -1,11 +1,10 @@
 /**
  * @name           Amoled
- * @description    Blacket wasn't dark enough, so we made it darker.
+ * @description    Lights out, baby!
  * @authors        monkxy
+ * @source         https://github.com/monkxy/amoled-theme
  * @autoImportant  false
 */
-
-/* https://github.com/monkxy/amoled-theme/blob/main/theme.js */
 
 .styles__background___2J-JA-camelCase {
     background-color: #000 !important;

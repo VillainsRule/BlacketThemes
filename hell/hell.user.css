@@ -1,3 +1,11 @@
+/**
+ * @name           Hell
+ * @description    A Hellish red theme.
+ * @authors        Death & fristic
+ * @source         https://github.com/VillainsRule/BlacketThemes
+ * @autoImportant  false
+*/
+
 #formAge,
 #formBody,
 #formDiscord,
@@ -290,13 +298,13 @@ p {
 }
 
 .styles__plusButton___2dH73-camelCase {
-    filter: drop-shadow(0 0 3.5px rgba(238,75,43));
+    filter: drop-shadow(0 0 3.5px rgba(238,75,43)) !important;
 }
 
 .styles__blooketText___1pMBG-camelCase {
-    filter: drop-shadow(10px 3px 20px black);
+    filter: drop-shadow(10px 3px 20px black) !important;
 }
 
 .styles__friendsAvatar___mvaW3-camelCase {
-    top: 54%;
+    top: 54% !important;
 }

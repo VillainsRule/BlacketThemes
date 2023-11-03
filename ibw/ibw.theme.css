@@ -1,3 +1,11 @@
+/**
+ * @name           iBw
+ * @description    A modern theme based around the old liteBw client.
+ * @authors        acai
+ * @source         https://github.com/VillainsRule/BlacketThemes
+ * @autoImportant  false
+*/
+
 @import url("https://fonts.googleapis.com/css?family=Lexend&display=swap");
 
 #app > div > div.arts__profileBody___eNPbH-camelCase > div > div.styles__headerRow___3mqZi-camelCase > div > div.styles__headerLeftRow___8vTJL-camelCase > div.styles__headerInfo___1oWlb-camelCase > div.styles__headerBadges___ffKa4-camelCase > div.styles__headerBadgeBg___12ogR-camelCase {

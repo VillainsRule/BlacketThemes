@@ -1,3 +1,11 @@
+/**
+ * @name           Space
+ * @description    get on that ship and flyy
+ * @authors        Death
+ * @source         https://github.com/VillainsRule/BlacketThemes
+ * @autoImportant  false
+*/
+
 #formAge,
 #formBody,
 #formDiscord,
@@ -201,21 +209,21 @@ input,
 
 .styles__inputContainer___t9pz0-camelCase[focus-within],
 .styles__inputContainer___t9pz0-camelCase:focus-within {
-    border-color: #6e15bd;
+    border-color: #6e15bd !important;
 }
 
 .styles__profileContainer___CSuIE-camelCase {
-    margin-top: 10px;
-    margin-right: 10px;
+    margin-top: 10px !important;
+    margin-right: 10px !important;
 }
 
 .styles__profileDropdownMenu___2jUAA-camelCase {
-    top: calc(100% - 0px);
-    right: -2px;
+    top: calc(100% - 0px) !important;
+    right: -2px !important;
 }
 
 #tokenBalance {
-    margin-top: 10px;
+    margin-top: 10px !important;
 }
 
 .styles__chatMessageMention___2Z1ZU-camelCase {
@@ -223,79 +231,79 @@ input,
 }
 
 .styles__topRightRow___dQvxc-camelCase > :nth-child(1) {
-    margin-right: 10px;
+    margin-right: 10px !important;
 }
 
 .styles__background___2J-JA-camelCase {
     background-image: url('https://images3.alphacoders.com/568/568861.jpg') !important;
-    position: fixed;
-    top: 0;
-    left: 0;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
 }
 
 .styles__blooksBackground___3oQ7Y-camelCase {
-    display: none;
+    display: none !important;
 }
 
 .styles__chatEmojiPickerHeader___FK4Ac-camelCase {
-    width: calc(100% - 6px);
-    border-radius: 10px 10px 0 0;
-    bottom: calc(107.5% - 7.5%);
+    width: calc(100% - 6px) !important;
+    border-radius: 10px 10px 0 0 !important;
+    bottom: calc(107.5% - 7.5%) !important;
 }
 
 .styles__chatEmojiPickerBody___KR4aN-camelCase {
     border-radius: 0 0 10px 10px !important;
-    left: 0;
-    justify-content: center;
-    padding: 10px;
-    bottom: 0;
+    left: 0 !important;
+    justify-content: center !important;
+    padding: 10px !important;
+    bottom: 0 !important;
 }
 
 .styles__chatEmojiPickerContainer___KR4aN-camelCase {
-    box-shadow: none;
+    box-shadow: none !important;
 }
 
 .styles__chatRooms___o5ASb-camelCase {
-    bottom: 10%;
+    bottom: 10% !important;
 }
 
 #agreeToTermsBox {
-    border: 2px solid rgba(0, 0, 0, 0.17);
+    border: 2px solid rgba(0, 0, 0, 0.17) !important;
 }
 
 .styles__sidebar___1XqWi-camelCase {
-    margin: 10px;
-    height: calc(100% - 20px);
+    margin: 10px !important;
+    height: calc(100% - 20px) !important;
 }
 
 .styles__statsContainer___QnrRB-camelCase {
-    margin-top: 55px;
+    margin-top: 55px !important;
 }
 
 #chatContainer {
-    height: calc(100% - 105px);
-    margin-top: 45px;
+    height: calc(100% - 105px) !important;
+    margin-top: 45px !important;
 }
 
 .styles__chatCurrentRoom___MCaV4-camelCase {
-    top: 0;
-    left: 0;
-    width: 50%;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 3vh;
+    top: 0 !important;
+    left: 0 !important;
+    width: 50% !important;
+    border-radius: 10px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    font-size: 3vh !important;
 }
 
 .arts__profileBody___eNPbH-camelCase {
-    margin-left: 20px;
-    width: calc(100% - 250px);
-    height: calc(100% - 20px);
-    top: 10px;
+    margin-left: 20px !important;
+    width: calc(100% - 250px) !important;
+    height: calc(100% - 20px) !important;
+    top: 10px !important;
 }
 
 .styles__planSpacer___LF8cN-camelCase {
@@ -314,17 +322,17 @@ hr {
 }
 
 .styles__verticalBlookGridLine___rQWaZ-camelCase {
-    background-color: #6e15bd;
-    width: 3px;
+    background-color: #6e15bd !important;
+    width: 3px !important;
 }
 
 .styles__inputContainer___2Fn7J-camelCase {
-    border: none;
+    border: none !important;
 }
 
 .styles__horizontalBlookGridLine___4SAvz-camelCase {
-    background-color: #6e15bd;
-    height: 3px;
+    background-color: #6e15bd !important;
+    height: 3px !important;
 }
 
 .styles__pageButton___1wFuu-camelCase:hover {
@@ -376,23 +384,23 @@ input.noplace {
 }
 
 .styles__blooketText___1pMBG-camelCase {
-    filter: drop-shadow(10px 3px 20px black);
+    filter: drop-shadow(10px 3px 20px black) !important;
 }
 
 .styles__friendsAvatar___mvaW3-camelCase {
-    top: 54%;
+    top: 54% !important;
 }
 
 .styles__welcomeText___30V14-camelCase,
 .styles__logoText___1eUDm-camelCase,
 .styles__middleHeader___1knI4-camelCase {
-    text-shadow: 2px 2px 8px black;
+    text-shadow: 2px 2px 8px black !important;
 }
 
 .styles__middleWrapper___hjUyY-camelCase {
-    margin-top: 20px;
-    width: calc(100% - 10px);
-    margin-left: 10px;
+    margin-top: 20px !important;
+    width: calc(100% - 10px) !important;
+    margin-left: 10px !important;
 }
 
 .styles__notificationIndicator___4kvmA-camelCase {
@@ -400,26 +408,26 @@ input.noplace {
 }
 
 .styles__welcomeButton___39pgl-camelCase {
-    transition: 0.2s;
+    transition: 0.2s !important;
 }
 
 .styles__welcomeButton___39pgl-camelCase:focus,
 .styles__welcomeButton___39pgl-camelCase:hover {
-    transform: scale(1.05);
+    transform: scale(1.05) !important;
     background-color: transparent !important;
     color: #6e15bd !important;
 }
 
 .styles__smallChatContainer__RT55a-camelCase {
-    width: 95vw;
-    overflow: auto;
-    position: absolute;
-    overflow-y: scroll;
+    width: 95vw !important;
+    overflow: auto !important;
+    position: absolute !important;
+    overflow-y: scroll !important;
     height: 9.5vw !important;
-    scrollbar-width: 50px;
-    scrollbar-color: #4f4f4f #2f2f2f;
-    background-color: rgba(0, 0, 0, 0.33);
-    border: black;
-    bottom: 10.9vw;
-    left: 2.5vw;
+    scrollbar-width: 50px !important;
+    scrollbar-color: #4f4f4f #2f2f2f !important;
+    background-color: rgba(0, 0, 0, 0.33) !important;
+    border: black !important;
+    bottom: 10.9vw !important;
+    left: 2.5vw !important;
 }
